@@ -1,1 +1,1 @@
-Click 1 of the google.com links to get to google.com https://google.com
+Click this link to go to google https://google.com
